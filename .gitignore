@@ -1,0 +1,10 @@
+# Ignore node_modules and build folders
+node_modules/
+dist/
+1-pre-built-bundle
+2-actual-backend/node_modules/
+3-myntra-react-clone/node_modules/
+
+# Environment files
+.env
+.DS_Store
